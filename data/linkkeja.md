@@ -13,7 +13,8 @@ Sparrausyhteisöjä
 
 APIt
 ====
-AvoHILMO-raportit: https://www2.thl.fi/avohilmo_report/report?id=basic
+* AvoHILMO-raportit: https://www2.thl.fi/avohilmo_report/report?id=basic
+* Keskustelua AvoHilmosta ja MiDatasta: http://fi.opasnet.org/fi/AvoHILMO
 
 Dataa
 =====

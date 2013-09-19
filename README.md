@@ -1,4 +1,4 @@
-## Tässä kansiossa: kaikki tarpeellinen terveystietojen laajemman hyötykäytön edistämiseksi
+## Tässä kansiossa: kaikki tarpeellinen terveystietojen tutkimus- ja hyötykäytön edistämiseksi
 
 Tämä on Apps4Finland-kilpailun _Terveystietojen hyödyntäminen_ -haastetta varten koottu tukipaketti. 
 

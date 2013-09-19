@@ -8,8 +8,8 @@ sparrausyhteisöjen kiinnostuneiden jäsenten kanssa.
 
 Sparrausyhteisöjä
 =================
-[1] Terveydenhuollon tietojärjestelmät korjattava FB-ryhmä <br>
-[2] Quantized Self & Biohacking Finland FB-ryhmä
+[1] Terveydenhuollon tietojärjestelmät korjattava Facebook-ryhmä <br>
+[2] Quantized Self & Biohacking Finland Facebook-ryhmä
 
 APIt
 ====
@@ -17,7 +17,7 @@ AvoHILMO-raportit: https://www2.thl.fi/avohilmo_report/report?id=basic
 
 Dataa
 =====
-* Esimerkkiaineisto-A <br>
+* [Esimerkkiaineisto-A]() <br>
 * lisätietoja [esimerkkiaineiston metadatasta](http://en.opasnet.org/w/KTL_Sarcoma_study#Simulated_data)
 ja [alkuperäisen aineiston](http://en.opasnet.org/w/KTL_Sarcoma_study) tuottamisesta
 

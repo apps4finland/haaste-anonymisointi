@@ -32,7 +32,7 @@ Yleisinformaatiota: <br>
 Case Netflix: <br>
 [3] Narayanan A. and Shmatikov V.,"Robust De-anonymization of Large Datasets (How to Break Anonymity of the Netflix Prize Dataset)". arXiv:cs/0610105v2 (2007) (www.cs.utexas.edu/~shmat/shmat_oak08netflix.pdf)
 
-Esimerkkejä anonymisointitekniikoita: <br>
+Esimerkkejä anonymisointitekniikoista: <br>
 [4] Ohrn, A. and Ohno-Machado L., "Using Boolean reasoning to anonymize databases".
 Artificial Intelligence in Medicine 15 (1999) 235 – 254 (http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.53.5861&rep=rep1&type=pdf)
 

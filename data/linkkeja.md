@@ -8,8 +8,8 @@ sparrausyhteisöjen kiinnostuneiden jäsenten kanssa.
 
 Sparrausyhteisöjä
 =================
-[1] Terveydenhuollon tietojärjestelmät korjattava Facebook-ryhmä <br>
-[2] Quantized Self & Biohacking Finland Facebook-ryhmä
+[1] Terveydenhuollon tietojärjestelmät korjattava Facebook-ryhmä: https://www.facebook.com/groups/407836109267293/ <br>
+[2] Quantified Self & Biohacking Finland Facebook-ryhmä: https://www.facebook.com/groups/qs.finland
 
 APIt
 ====

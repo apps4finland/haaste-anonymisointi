@@ -27,22 +27,22 @@ vaatimusten sisäisen ristiriitaisuuden vuoksi. Kilpailutyössäsi voit
 halutessasi rajoittua pohtimaan asiaa valitsemastasi tarkemmin rajatusta
 näkökulmasta. Alla on esitty esimerkkejä rajoitetummista kysymyksistä, joihin
 voit kilpailutyössäsi hakea vastausta [data](https://github.com/apps4finland/haaste-anonymisointi/blob/master/data)-kansiosta löytyvän malliesimerkin
-avulla (esimerkkiaineisto-A):
+avulla ([esimerkkiaineisto-A](https://github.com/apps4finland/haaste-anonymisointi/blob/master/data/KTL_Sarcoma_study.csv)):
 
 - mikä erilaisista anonymisointitavoista tai niiden yhdistelmistä sopii
-parhaiten esimerkkiaineisto-A:n tyyppisen tiedoston sumeuttamiseen
+parhaiten [esimerkkiaineisto-A](https://github.com/apps4finland/haaste-anonymisointi/blob/master/data/KTL_Sarcoma_study.csv):n tyyppisen tiedoston sumeuttamiseen
 Public Use -tiedostoksi?
-Esimerkkiaineisto-A on valmiiksi käsitelty niin, että mittaustulokset eivät
+[Esimerkkiaineisto-A](https://github.com/apps4finland/haaste-anonymisointi/blob/master/data/KTL_Sarcoma_study.csv) on valmiiksi käsitelty niin, että mittaustulokset eivät
 ole todellisia. Haaste on siis ratkaistava tapauksessa, jossa tulokset ovat
 todellisia ja potilaspopulaatio tulee maantieteellisesti rajatulta, joka
 helpottaa tunnistamista. Katso kohdasta Viitteet tausta-aineistoja.
 - millaisia erilaisia tapoja ja tietolähteitä käyttäen voidaan henkilö
-välillisesti tunnistaa (jollain todennäköisyydellä) esimerkkiaineisto-A:sta
+välillisesti tunnistaa (jollain todennäköisyydellä) [esimerkkiaineisto-A](https://github.com/apps4finland/haaste-anonymisointi/blob/master/data/KTL_Sarcoma_study.csv):sta
 kun käytettävissäsi on koko internetin tietovarasto?
 - osoita, että jokin tai jotkin standardinanonymisointitekniikoista (joita
 kuvattu mm. [lähteessä \[2\], Fung et al.](https://github.com/apps4finland/haaste-anonymisointi/blob/master/data/linkkeja.md))
-soveltuu erityisen huonosti esimerkkiaineisto-A:n
-kaltaisille aineistoille. Vaikka esimerkkiaineisto-A:n mittausdata on
+soveltuu erityisen huonosti [esimerkkiaineisto-A](https://github.com/apps4finland/haaste-anonymisointi/blob/master/data/KTL_Sarcoma_study.csv):n
+kaltaisille aineistoille. Vaikka [esimerkkiaineisto-A](https://github.com/apps4finland/haaste-anonymisointi/blob/master/data/KTL_Sarcoma_study.csv):n mittausdata on
 kuvitteellista, on siinä pyritty säilyttämään tietoalkioiden väliset korrelaatiot
 ja suuruusluokat niin, että anonymisointitekniikoiden tuottamat tilastolliset
 tulokset ovat totuudenmukaisia.
@@ -50,5 +50,5 @@ tulokset ovat totuudenmukaisia.
 yllä mainittuihin kysymyksiin!
 
 Rajoitetumpiin kysymyksiin vastatessasi voit myös hyödyntää tietoa
-esimerkkiaineisto-A:n lukuarvojen, tekstikenttien, ontologisten ym. piirteiden
+[esimerkkiaineisto-A](https://github.com/apps4finland/haaste-anonymisointi/blob/master/data/KTL_Sarcoma_study.csv):n lukuarvojen, tekstikenttien, ontologisten ym. piirteiden
 tilastollisista, suuruusluokka- ym. ominaisuuksista. 

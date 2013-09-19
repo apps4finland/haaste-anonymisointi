@@ -4,8 +4,9 @@ Inspiraatioksi haasteen ratkaisuun
 1. Voit lähestyä haastetta raja-pintojen kautta. Tällöin haastekysymys voidaan
 muotoilla seuraavasti: <br>
 _Miten rakennetaan sovellus ja rajapinta johonkin salaiseen potilasdataan (esim.
-AvoHilmoon) siten, että käyttäjä (esimerkiksi THL:n ulkopuolinen lääkäri tai
-tutkija) voi kehittää tilastoanalyysin, joka ajetaan suoraan AvoHilmossa ja
+[AvoHilmoon](http://fi.opasnet.org/fi/AvoHILMO)) siten, että käyttäjä
+(esimerkiksi THL:n ulkopuolinen lääkäri tai tutkija) voi kehittää tilastoanalyysin,
+joka ajetaan suoraan AvoHilmossa ja
 tulokset annetaan käyttäjälle ja/tai julkaistaan netissä, kun ensin on tarkastettu,
 ettei salaisia tietoja vuoda tulosten mukana_? Ideana on siis, ettei
 data liiku missään vaiheessa THL:n ulkopuolelle, mutta metadata julkaistaan
@@ -25,7 +26,7 @@ Täydellista vastausta 2. kysymykseen ei ole olemassa sen sisältämien
 vaatimusten sisäisen ristiriitaisuuden vuoksi. Kilpailutyössäsi voit
 halutessasi rajoittua pohtimaan asiaa valitsemastasi tarkemmin rajatusta
 näkökulmasta. Alla on esitty esimerkkejä rajoitetummista kysymyksistä, joihin
-voit kilpailutyössäsi hakea vastausta data-kansiosta löytyvän malliesimerkin
+voit kilpailutyössäsi hakea vastausta [data](https://github.com/apps4finland/haaste-anonymisointi/blob/master/data)-kansiosta löytyvän malliesimerkin
 avulla (esimerkkiaineisto-A):
 
 - mikä erilaisista anonymisointitavoista tai niiden yhdistelmistä sopii
@@ -39,7 +40,8 @@ helpottaa tunnistamista. Katso kohdasta Viitteet tausta-aineistoja.
 välillisesti tunnistaa (jollain todennäköisyydellä) esimerkkiaineisto-A:sta
 kun käytettävissäsi on koko internetin tietovarasto?
 - osoita, että jokin tai jotkin standardinanonymisointitekniikoista (joita
-kuvattu mm. lähteessä [2]) soveltuu erityisen huonosti esimerkkiaineisto-A:n
+kuvattu mm. [lähteessä (2)](https://github.com/apps4finland/haaste-anonymisointi/blob/master/data/linkkeja.md))
+soveltuu erityisen huonosti esimerkkiaineisto-A:n
 kaltaisille aineistoille. Vaikka esimerkkiaineisto-A:n mittausdata on
 kuvitteellista, on siinä pyritty säilyttämään tietoalkioiden väliset korrelaatiot
 ja suuruusluokat niin, että anonymisointitekniikoiden tuottamat tilastolliset

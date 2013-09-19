@@ -40,7 +40,7 @@ helpottaa tunnistamista. Katso kohdasta Viitteet tausta-aineistoja.
 välillisesti tunnistaa (jollain todennäköisyydellä) esimerkkiaineisto-A:sta
 kun käytettävissäsi on koko internetin tietovarasto?
 - osoita, että jokin tai jotkin standardinanonymisointitekniikoista (joita
-kuvattu mm. [lähteessä (2)](https://github.com/apps4finland/haaste-anonymisointi/blob/master/data/linkkeja.md))
+kuvattu mm. [lähteessä \[2\], Fung et al.](https://github.com/apps4finland/haaste-anonymisointi/blob/master/data/linkkeja.md))
 soveltuu erityisen huonosti esimerkkiaineisto-A:n
 kaltaisille aineistoille. Vaikka esimerkkiaineisto-A:n mittausdata on
 kuvitteellista, on siinä pyritty säilyttämään tietoalkioiden väliset korrelaatiot

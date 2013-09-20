@@ -9,7 +9,7 @@ rekisteristä saadaan kaivettua riittävä määrä tietoalkioita, jotka eivät 
 uniikkeja, mutta joiden yhdistelmä mahdollistaa henkilön tunnistamisen.
 Tällainen yhdistelmä voi olla esimerkiksi henkilön asuinpaikan osoite,
 sukupuoli ja ikä tai tiedot terveysaseman osoite ja hoitotoimenpiteen tarkka
-ajankohta.
+ajankohta (ks. [ref. \[6\]](https://github.com/apps4finland/haaste-anonymisointi/blob/master/data/linkkeja.md)).
 
 Tilastolokia muutettiin 2.5.2013. Uusi laki mahdollistaa sen, että
 tilastoviranomaiset, kuten Tilastokeskus, voivat jatkossa luovuttaa

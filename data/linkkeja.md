@@ -38,3 +38,11 @@ Esimerkkejä anonymisointitekniikoista: <br>
 Artificial Intelligence in Medicine 15 (1999) 235 – 254 (http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.53.5861&rep=rep1&type=pdf)
 
 [5] Eder J., "Privacy in Biobanks, k-Anonymity and l-Diversity etc". (http://www.tmf-ev.de/DesktopModules/Bring2mind/DMX/Download.aspx?EntryId=16747&PortalId=0)
+
+Muita linkkejä: <br>
+[6] Latanya Sweeney, Uniqueness of Simple Demographics in the U.S. Population,
+Laboratory for International Data Privacy Working Paper, LIDAP-WP4 (2000).
+More recent data suggests that 63% of population were uniquely identified by
+ZIP, birth date, and sex (Phillipe Golle, Revisiting the Uniqueness of Simple
+Demographics in the US Population, 2006 WORKSHOP ON PRIVACY IN THE ELEC.
+SOC’Y PROC.)

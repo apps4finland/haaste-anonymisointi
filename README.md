@@ -12,8 +12,9 @@ tutkimusta ja tilastoanalyyseja kuin mitä aineiston keränneet tutkijat ehtivä
 tehdä. Haasteena on kehittää sellaisia käytäntöjä ja niitä tukevia työkaluja,
 jotka mahdollistavat ulkopuoliselle taholle tilastoanalyysien kehittämisen ja
 ajojen tilaamisen THL:ltä ilman, että taho itse näkee alkuperäistä dataa.
-Kehityskohteena ovat mm. rajapinnat, metatietokuvaukset, generoidut
-data-aineistot, eettiset käytännöt ja tulosten visualisointi.
+Kehityskohteena ovat mm. rajapinnat, anonymisointitekniikat, metatietokuvaukset, generoidut
+data-aineistot, eettiset käytännöt ja tulosten visualisointi. Lisää vinkkejä
+löytyy alla olevista linkeistä.
 
 [ [lisätietoa haasteesta](taustatietoa.md) ] [ [inspiraatioksi](inspiraatioksi.md) ]
 

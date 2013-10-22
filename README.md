@@ -29,7 +29,8 @@ kisasta, voit aina ottaa yhteyttä kisan [projektipäällikköön](http://www.ap
 
 ## Haasteeseen liittyvät tapahtumat
 
-* Apps Camp, 28.9, Uusi Tehdas, Tampere. Ilmoittautuminen ja ohjelma: https://okroadshowtampere.eventbrite.com/
+* Katso Tapahtumat-otsikon alla [haasteen kotisivulta](http://www.apps4finland.fi/haaste/terveystietojen-hyodyntaminen/).
+
 
 ## Mitä voit tehdä seuraavaksi?
 
